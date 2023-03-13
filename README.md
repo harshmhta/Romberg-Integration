@@ -49,7 +49,8 @@ The romberg function outputs the approximate integral int, the error estimate er
 The Romberg integration method is a powerful numerical method for approximating integrals. The implementation of the method in MATLAB can be done using the provided romberg function, which has been designed to handle composite trapezoid rule, extrapolation and error estimation. The romberg function has been tested on three functions with different integration intervals, and it produced good approximations with a tolerance of 1e-14. This project provides a good opportunity to practice programming skills, as well as gain a deeper understanding of numerical integration methods.
 
 ## Academic Integrity Statement
-Please note that all work included in this project is the original work of the author, and any external sources or references have been properly cited and credited. It is strictly prohibited to copy, reproduce, or use any part of this work without proper attribution and permission from the author.
+
+Please note that all work included in this project is the original work of the author, and any external sources or references have been properly cited and credited. It is strictly prohibited to copy, reproduce, or use any part of this work without permission from the author.
 
 If you choose to use any part of this work as a reference or resource, you are responsible for ensuring that you do not plagiarize or violate any academic integrity policies or guidelines. The author of this work cannot be held liable for any legal or academic consequences resulting from the misuse or misappropriation of this work.
 
